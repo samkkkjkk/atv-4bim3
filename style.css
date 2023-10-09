@@ -1,3 +1,30 @@
 .tite{
-    height: 80px;
+ border:2px solid red;
+ height: 60px ;
+ margin: auto;
+ padding: 60px;
+ width: 900px;
+
+
+}
+.preparacao{
+    border:2px solid red;
+    height: 60px;
+    margin: auto;
+    padding: 80px;
+    width: 900px;
+}
+.tamanho{
+    border: 2px solid red;
+    height: 60px;
+    margin:auto;
+    padding: 60px;
+    width: 900px;
+}
+.negociacao{
+    border: 2px solid red;
+    height: 60px;
+    margin:auto;
+    padding: 60px;
+    width: 900px;
 }
